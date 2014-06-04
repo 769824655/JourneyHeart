@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C562D3C5-2668-400B-A37D-933CFDA5C0F8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>心旅</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1BA6B4E-348A-4A4E-8CCA-7126A4E86AAA</key>
+		<string>https://github.com/Axmany/JourneyHeart.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>心旅.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1BA6B4E-348A-4A4E-8CCA-7126A4E86AAA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Axmany/JourneyHeart.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1BA6B4E-348A-4A4E-8CCA-7126A4E86AAA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1BA6B4E-348A-4A4E-8CCA-7126A4E86AAA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JourneyHeart</string>
+		</dict>
+	</array>
+</dict>
+</plist>
